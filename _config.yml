@@ -47,11 +47,6 @@ header:
       style: icon
       icon_class: fa-linkedin
       new_window: true
-    - label: DEV
-      url: 'https://dev.to/'
-      style: icon
-      icon_class: fa-dev
-      new_window: true
     - label: lorem-ipsum
       url: lorem-ipsum
       style: link
